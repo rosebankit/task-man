@@ -1,0 +1,8 @@
+
+cd PYTHON/git/task_man/
+
+source env/bin/activate
+
+cd tasks_front
+
+npm start react

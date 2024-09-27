@@ -1,0 +1,10 @@
+#FLASK APP
+
+cd PYTHON/git/task_man/
+
+source env/bin/activate
+
+cd flask_back
+
+cd PYTHON/git/task_man/flask_back
+
